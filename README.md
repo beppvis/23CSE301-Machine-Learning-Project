@@ -4,6 +4,5 @@
 
 ### Instructions
 1) Download the dataset
-2) Create a `data` folder
-3) copy the `cast.csv` file to `data` folder
+2) copy the `cast.csv` file to `data` folder
 
