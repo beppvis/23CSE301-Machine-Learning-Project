@@ -1,0 +1,3 @@
+def whatis(field_name, fd):
+	print(fd[fd['Field Name']==field_name]['Description'].iloc(0))
+
